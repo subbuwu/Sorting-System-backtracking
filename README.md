@@ -1,5 +1,2 @@
 # Sorting-System-backtracking
-This is the first project I developed using Python.
-This program sorts the students in a exam hall given in matrix format according to the subjects given by the user . 
-This sorting is done as to minimise the cheating and malpractice done in exam halls.
-Check out my full word file in docx format.
+This project is a Python MySQL application designed to sort students in a matrix-based classroom according to their subjects, ensuring that no student can easily cheat during examinations. The system utilizes advanced algorithms, including backtracking and others, to efficiently organize students within the classroom.
